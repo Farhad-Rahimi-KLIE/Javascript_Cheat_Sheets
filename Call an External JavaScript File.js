@@ -1,0 +1,1 @@
+<script src="myscript.js"></script><code></code>

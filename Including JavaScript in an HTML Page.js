@@ -1,3 +1,3 @@
 <script type="text/javascript"> 
- //JS code goes here 
+ //JS code goes Here 
 </script>

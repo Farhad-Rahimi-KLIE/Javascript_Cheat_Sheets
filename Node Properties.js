@@ -1,4 +1,4 @@
-attributes — Returns a live collection of all attributes registered 
+attributes — Returns a Live collection of all attributes registered 
 to and element
 
 baseURI — Provides the absolute base URL of an HTML element

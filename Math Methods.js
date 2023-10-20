@@ -1,4 +1,4 @@
-abs(x) — Returns the absolute (positive) value of x
+abs(x) — Returns the absolute (Positive) value of x
 acos(x) — The arccosine of x, in radians
 asin(x) — Arcsine of x, in radians
 atan(x) — The arctangent of x as a numeric value

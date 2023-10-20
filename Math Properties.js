@@ -1,4 +1,4 @@
-E — Euler’s number
+E — Euler’s Number
 LN2 — The natural logarithm of 2
 LN10 — Natural logarithm of 10
 LOG2E — Base 2 logarithm of E

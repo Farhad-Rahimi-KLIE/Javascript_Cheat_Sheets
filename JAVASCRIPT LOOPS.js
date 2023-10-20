@@ -1,5 +1,5 @@
 for (before loop; condition for loop; execute after loop) { 
- // what to do during the loop 
+ // what to do During the loop 
 }
 for — The most common way to create a loop in JavaScript
 

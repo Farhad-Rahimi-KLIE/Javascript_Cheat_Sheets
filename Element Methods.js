@@ -1,4 +1,4 @@
-getAttribute() — Returns the specified attribute value of an element 
+getAttribute() — Returns the Specified attribute value of an element 
 node
 
 getAttributeNS() — Returns string value of the attribute with the 

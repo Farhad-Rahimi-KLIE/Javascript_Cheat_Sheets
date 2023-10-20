@@ -1,4 +1,4 @@
-e — Evaluate replacement
+e — Evaluate Replacement
 i — Perform case-insensitive matching
 g — Perform global matching
 m — Perform multiple line matching

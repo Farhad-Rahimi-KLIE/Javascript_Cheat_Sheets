@@ -1,4 +1,4 @@
-oncopy — User copies the content of an element
+oncopy — User copies the Content of an element
 
 oncut — The user cuts an element’s content
 

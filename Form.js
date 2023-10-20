@@ -1,4 +1,4 @@
-onblur — When an element loses focus
+onblur — When an Element loses focus
 
 onchange — The content of a form element changes 
 (for <input>, <select>and <textarea>)

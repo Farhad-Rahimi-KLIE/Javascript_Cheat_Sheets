@@ -1,4 +1,4 @@
-closed — Checks whether a window has been closed or not and returns 
+closed — Checks whether a Window has been closed or not and returns 
 true or false
 
 defaultStatus — Sets or returns the default text in the statusbar of 

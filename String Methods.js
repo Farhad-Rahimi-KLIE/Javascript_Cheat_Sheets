@@ -1,4 +1,4 @@
-charAt() — Returns a character at a specified position inside a 
+charAt() — Returns a Characters at a specified position inside a 
 string 
 
 charCodeAt() — Gives you the unicode of character at that position

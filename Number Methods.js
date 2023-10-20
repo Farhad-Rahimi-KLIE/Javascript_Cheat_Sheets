@@ -1,4 +1,4 @@
-toExponential() — Returns a string with a rounded number written as 
+toExponential() — Returns a String with a rounded number written as 
 exponential notation
 
 toFixed() — Returns the string of a number with a specified number of 

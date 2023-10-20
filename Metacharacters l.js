@@ -1,4 +1,4 @@
-. — Find a single character, except newline or line terminator
+. — Find a Single character, except newline or line terminator
 \w — Word character
 \W — Non-word character
 \d — A digit

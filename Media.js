@@ -1,4 +1,4 @@
-onabort — Media loading is aborted
+onabort — Media Loading is aborted
 
 oncanplay — The browser can start playing media (e.g. a file has 
 buffered enough)

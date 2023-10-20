@@ -1,1 +1,1 @@
-var person = "John Doe";
+var person = "Farhad Rahimi Klie";

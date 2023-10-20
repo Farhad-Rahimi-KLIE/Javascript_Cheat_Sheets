@@ -1,4 +1,4 @@
-concat() — Join several arrays into one
+concat() — Join Several arrays into one
 
 indexOf() — Returns the primitive value of the specified object
 

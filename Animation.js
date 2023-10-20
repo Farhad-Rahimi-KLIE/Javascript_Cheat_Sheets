@@ -1,4 +1,4 @@
-animationend — A CSS animation is complete
+Animationend — A CSS animation is complete
 
 animationiteration — CSS animation is repeated
 

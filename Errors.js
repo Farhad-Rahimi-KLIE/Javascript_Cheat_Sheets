@@ -1,4 +1,4 @@
-try — Lets you define a block of code to test for errors
+try — Lets you Define a block of code to test for errors
 
 catch — Set up a block of code to execute in case of an error
 

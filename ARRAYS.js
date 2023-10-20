@@ -1,1 +1,1 @@
-var fruit = ["Banana", "Apple", "Pear"];
+var fruit = ["Banana", "Apple", "Tall"];

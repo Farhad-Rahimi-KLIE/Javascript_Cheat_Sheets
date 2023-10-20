@@ -1,4 +1,4 @@
-Numbers — var age = 23 
+Numbers — var age = 35
 Variables — var x 
 Text (strings) — var a = "init" 
 Operations — var b = 1 + 2 + 3

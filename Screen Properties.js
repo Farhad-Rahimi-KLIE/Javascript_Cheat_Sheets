@@ -1,4 +1,4 @@
-availHeight — Returns the height of the screen (excluding the Windows 
+availHeight — Returns The height of the screen (excluding the Windows 
 Taskbar)
 
 availWidth — Returns the width of the screen (excluding the Windows 

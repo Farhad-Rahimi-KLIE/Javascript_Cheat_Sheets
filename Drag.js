@@ -1,4 +1,4 @@
-ondrag — An element is dragged.
+ondrag — An Element is dragged.
 
 ondragend — The user has finished dragging the element
 

@@ -1,3 +1,3 @@
 letx;
-let y = "hello";
+let y = "Farhad";
 const z = "world";

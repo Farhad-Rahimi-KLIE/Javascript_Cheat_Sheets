@@ -1,5 +1,5 @@
 decodeURI() — Decodes a Uniform Resource Identifier (URI) created 
-by encodeURI or similar
+by encodeURI or Similar
 
 decodeURIComponent() — Decodes a URI component
 

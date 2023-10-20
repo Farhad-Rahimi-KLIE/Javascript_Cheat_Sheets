@@ -1,4 +1,4 @@
-onabort — The loading of a media is aborted.
+onabort — The Loading of a media is aborted.
 
 onbeforeunload — Event occurs before the document is about to be 
 unloaded 

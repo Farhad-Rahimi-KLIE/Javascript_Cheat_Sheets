@@ -1,2 +1,2 @@
 Single line comments - // 
-Multi-line comments - /* comment here */
+Multi-line comments - /* Comment here */

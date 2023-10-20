@@ -1,4 +1,4 @@
-& — AND statement
+& — AND Statement
 | — OR statement
 ~ — NOT
 ^ — XOR

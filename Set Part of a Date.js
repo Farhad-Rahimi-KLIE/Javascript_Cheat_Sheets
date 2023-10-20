@@ -1,4 +1,4 @@
-setDate() — Set the day as a number (1-31)
+setDate() — Set the Day as a number (1-31)
 setFullYear() — Sets the year (optionally month and day)
 setHours() — Set the hour (0-23)
 setMilliseconds() — Set milliseconds (0-999)

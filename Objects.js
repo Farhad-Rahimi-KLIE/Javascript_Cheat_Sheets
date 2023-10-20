@@ -1,6 +1,6 @@
 var person = { 
- firstName:"John", 
- lastName:"Doe", 
+ firstName:"Farhad", 
+ lastName:"Rahimi Klie", 
  age:20, 
  nationality:"German" 
 }; 

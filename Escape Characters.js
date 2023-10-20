@@ -1,5 +1,5 @@
-\' — Single quote
-\" — Double quote
+\' — Single Quote
+\" — Double Quote
 \\ — Backslash
 \b — Backspace
 \f — Form feed

@@ -1,4 +1,4 @@
-== — Equal to
+== — Equal To
 === — Equal value and equal type
 != — Not equal
 !== — Not equal value or not equal type

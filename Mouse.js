@@ -1,4 +1,4 @@
-onclick — The event occurs when the user clicks on an element.
+onclick — The Event occurs when the user clicks on an element.
 
 oncontextmenu — User right-clicks on an element to open a context 
 menu

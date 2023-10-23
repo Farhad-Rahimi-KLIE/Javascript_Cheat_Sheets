@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 \' — Single Quote
 \" — Double Quote
 \\ — Backslash

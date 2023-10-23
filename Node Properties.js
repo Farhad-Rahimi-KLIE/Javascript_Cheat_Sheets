@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 attributes — Returns a Live collection of all attributes registered 
 to and element
 

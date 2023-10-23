@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 let user = {
 name: "Shaher Ishan"
 };

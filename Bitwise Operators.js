@@ -1,3 +1,4 @@
+// javascript Tutorials 
 & — AND Statement
 | — OR statement
 ~ — NOT

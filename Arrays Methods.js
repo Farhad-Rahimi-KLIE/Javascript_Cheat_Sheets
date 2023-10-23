@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 concat() — Join Several arrays into one
 
 indexOf() — Returns the primitive value of the specified object

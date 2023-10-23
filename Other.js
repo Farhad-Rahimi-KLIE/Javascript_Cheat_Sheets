@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 transitionend — Fired When a CSS transition has completed
 
 onmessage — A message is received through the event source

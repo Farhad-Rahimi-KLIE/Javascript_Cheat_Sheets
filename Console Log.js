@@ -1,2 +1,2 @@
-// javascript Tutorials 
+// javascript Tutorials
 console.log("hello Farhad");

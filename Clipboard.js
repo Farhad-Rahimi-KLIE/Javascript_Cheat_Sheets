@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 oncopy — User copies the Content of an element
 
 oncut — The user cuts an element’s content

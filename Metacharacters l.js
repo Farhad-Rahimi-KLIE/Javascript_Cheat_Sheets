@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 . — Find a Single character, except newline or line terminator
 \w — Word character
 \W — Non-word character

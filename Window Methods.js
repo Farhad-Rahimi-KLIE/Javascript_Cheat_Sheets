@@ -1,3 +1,4 @@
+// javascript Tutorials 
 alert() — Displays an Alert box with a message and an OK button
 
 blur() — Removes focus from the current window

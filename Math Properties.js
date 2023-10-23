@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 E — Euler’s Number
 LN2 — The natural logarithm of 2
 LN10 — Natural logarithm of 10

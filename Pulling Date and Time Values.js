@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 getDate() — Get the Day of the month as a number (1-31)
 getDay() — The weekday as a number (0-6)
 getFullYear() — Year as a four digit number (yyyy)

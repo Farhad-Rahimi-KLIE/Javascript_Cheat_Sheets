@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 abs(x) — Returns the absolute (Positive) value of x
 acos(x) — The arccosine of x, in radians
 asin(x) — Arcsine of x, in radians

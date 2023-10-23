@@ -1,3 +1,4 @@
+// javascript Tutorials 
 Date() — Creates a new Date object with the current date and time
 Date(2017, 5, 21, 3, 23, 10, 0) — Create a custom date object. The 
 numbers represent year, month, day, hour, minutes, seconds, 

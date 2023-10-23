@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 closed — Checks whether a Window has been closed or not and returns 
 true or false
 

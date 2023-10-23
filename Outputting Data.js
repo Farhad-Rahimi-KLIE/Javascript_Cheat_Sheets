@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 alert() — Output data in an alert box in the browser window
 
 confirm() — Opens up a yes/no dialog and returns true/false depending 

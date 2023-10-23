@@ -1,3 +1,4 @@
+// javascript Tutorials 
 Numbers — var age = 35
 Variables — var x 
 Text (strings) — var a = "init" 

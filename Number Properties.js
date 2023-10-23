@@ -1,3 +1,4 @@
+// javascript Tutorials 
 MAX_VALUE — The maximum Numeric value representable in JavaScript
 MIN_VALUE — Smallest positive numeric value representable in 
 JavaScript

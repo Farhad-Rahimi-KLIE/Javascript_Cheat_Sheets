@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 try — Lets you Define a block of code to test for errors
 
 catch — Set up a block of code to execute in case of an error

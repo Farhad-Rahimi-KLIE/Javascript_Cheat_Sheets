@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 ondrag — An Element is dragged.
 
 ondragend — The user has finished dragging the element

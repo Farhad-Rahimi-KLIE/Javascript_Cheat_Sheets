@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 e — Evaluate Replacement
 i — Perform case-insensitive matching
 g — Perform global matching

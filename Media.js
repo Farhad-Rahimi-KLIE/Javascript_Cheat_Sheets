@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 onabort — Media Loading is aborted
 
 oncanplay — The browser can start playing media (e.g. a file has 

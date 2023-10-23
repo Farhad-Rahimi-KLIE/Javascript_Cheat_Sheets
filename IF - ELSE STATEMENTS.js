@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 if (condition) { 
  // what to do if Condition is met 
 } else { 

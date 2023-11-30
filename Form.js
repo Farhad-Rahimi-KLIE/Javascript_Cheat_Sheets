@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 onblur — When an Element loses focus
 
 onchange — The content of a form element changes 

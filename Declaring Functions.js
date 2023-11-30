@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 const add = (x, y) => {
 return (x + y);
 }

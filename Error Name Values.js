@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 name — Sets or Returns the error name
 
 message — Sets or returns an error message in string from

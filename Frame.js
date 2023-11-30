@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 onabort — The Loading of a media is aborted.
 
 onbeforeunload — Event occurs before the document is about to be 

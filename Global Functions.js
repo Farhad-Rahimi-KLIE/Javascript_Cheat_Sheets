@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 decodeURI() — Decodes a Uniform Resource Identifier (URI) created 
 by encodeURI or Similar
 

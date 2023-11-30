@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 getAttribute() — Returns the Specified attribute value of an element 
 node
 
